@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+import jma
+
+if __name__ == '__main__':
+    jma.main()
