@@ -1,8 +1,8 @@
-jma_stat: Data downloader from JMA (Japan Meteorological Agency)
-================================================================
+jma: Data downloader from JMA (Japan Meteorological Agency)
+===========================================================
 
 * Author: Kiwamu Ishikura
-* Version: 2.0.1
+* Version: 1.0.0
 * Licence: GPLv3
 
 What's this?
